@@ -1,0 +1,61 @@
+{
+  "name": "nanny",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "./",
+  "dependencies": {
+    "@capacitor/android": "^5.2.2",
+    "@capacitor/browser": "^5.0.6",
+    "@capacitor/camera": "^5.0.6",
+    "@capacitor/core": "^5.2.3",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.1",
+    "@mui/joy": "^5.0.0-alpha.88",
+    "@mui/material": "^5.14.1",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "animate.css": "^4.1.1",
+    "axios": "^1.4.0",
+    "js-cookie": "^3.0.5",
+    "moment": "^2.29.4",
+    "popup-chat-react": "^1.0.5",
+    "react": "^18.2.0",
+    "react-chat-widget": "^3.1.4",
+    "react-dom": "^18.2.0",
+    "react-image-gallery": "^1.2.12",
+    "react-router-dom": "^6.14.2",
+    "react-scripts": "5.0.1",
+    "react-spinners": "^0.13.8",
+    "react-swipeable-views": "^0.14.0",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^5.2.3"
+  }
+}

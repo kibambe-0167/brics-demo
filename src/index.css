@@ -1,0 +1,31 @@
+.bg{
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  z-index:-1;
+}
+
+
+.inp{
+  border:1px solid #fe724c !important;
+  margin-top:20px !important;
+  border-radius: 10px !important;
+}
+.btn{
+  background-color: #fe724c !important;
+  color: white !important;
+  border-radius: 20px !important;
+  margin-top:20px !important;
+  width: 100%;
+  display: flex !important;
+  justify-content: center !important ;
+
+}
+
+
+.bottom-tabs{
+  position: fixed;
+  bottom: 0;
+}

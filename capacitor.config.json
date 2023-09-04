@@ -1,0 +1,11 @@
+{
+  "appId": "com.nanny",
+  "appName": "nanny",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {},
+  "server": {
+    "androidScheme": "https"
+  }
+}
